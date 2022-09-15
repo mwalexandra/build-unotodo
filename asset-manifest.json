@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/build-unotodo/static/css/main.4423c59c.css",
-    "main.js": "/build-unotodo/static/js/main.0d3f1cb4.js",
+    "main.js": "/build-unotodo/static/js/main.dd010688.js",
     "static/media/welcome_uno.png": "/build-unotodo/static/media/welcome_uno.dd72be9f1688a1ae154f.png",
     "static/media/dark-name.svg": "/build-unotodo/static/media/dark-name.d3e122330611b1dc5b96.svg",
     "static/media/light-name.svg": "/build-unotodo/static/media/light-name.47e8995742ccb7594fb5.svg",
@@ -34,10 +34,10 @@
     "static/media/light-lila-plus.svg": "/build-unotodo/static/media/light-lila-plus.9b444bb25df727e9ce72.svg",
     "static/media/plus.svg": "/build-unotodo/static/media/plus.3a69b6899ab7029bdf87.svg",
     "main.4423c59c.css.map": "/build-unotodo/static/css/main.4423c59c.css.map",
-    "main.0d3f1cb4.js.map": "/build-unotodo/static/js/main.0d3f1cb4.js.map"
+    "main.dd010688.js.map": "/build-unotodo/static/js/main.dd010688.js.map"
   },
   "entrypoints": [
     "static/css/main.4423c59c.css",
-    "static/js/main.0d3f1cb4.js"
+    "static/js/main.dd010688.js"
   ]
 }
