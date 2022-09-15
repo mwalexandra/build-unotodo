@@ -1,0 +1,9 @@
+{
+  "short_name": "Uno Todo",
+  "name": "Orginize your daily life",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

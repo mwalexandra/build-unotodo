@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/static/css/main.ddc09a0e.css",
+    "main.js": "/static/js/main.1b9dbe3f.js",
+    "static/media/welcome_uno.png": "/static/media/welcome_uno.dd72be9f1688a1ae154f.png",
+    "static/media/dark-name.svg": "/static/media/dark-name.d3e122330611b1dc5b96.svg",
+    "static/media/light-name.svg": "/static/media/light-name.47e8995742ccb7594fb5.svg",
+    "static/media/light-sun.svg": "/static/media/light-sun.f5f452dac28bce53dfad.svg",
+    "static/media/dark-sun.svg": "/static/media/dark-sun.4cd025fc424714073a5f.svg",
+    "index.html": "/index.html",
+    "static/media/dark-important.svg": "/static/media/dark-important.2666b7d78e3f50e1573c.svg",
+    "static/media/dark-moon.svg": "/static/media/dark-moon.040034f0f0adcbd143eb.svg",
+    "static/media/light-moon.svg": "/static/media/light-moon.43de55273fc03886a63b.svg",
+    "static/media/dark-search.svg": "/static/media/dark-search.0ae7e16430f575723417.svg",
+    "static/media/light-search.svg": "/static/media/light-search.5139add801d1baa02c31.svg",
+    "static/media/edit.svg": "/static/media/edit.88634abdd9c067caf314.svg",
+    "static/media/light-important.svg": "/static/media/light-important.0b1225ac9c4c1124eb00.svg",
+    "static/media/dark-date.svg": "/static/media/dark-date.81660cc3948437ad8803.svg",
+    "static/media/light-date.svg": "/static/media/light-date.7b6c774e84c16c803d88.svg",
+    "static/media/dark-house_siding.svg": "/static/media/dark-house_siding.c61788094769019fc622.svg",
+    "static/media/light-house_siding.svg": "/static/media/light-house_siding.c0598502a7c29abe2188.svg",
+    "static/media/dark-delete.svg": "/static/media/dark-delete.b5c673241e0f06f91056.svg",
+    "static/media/light-delete.svg": "/static/media/light-delete.b289cbdfc03ebd7d48cf.svg",
+    "static/media/remove.svg": "/static/media/remove.79d56da2659d1412d5eb.svg",
+    "static/media/dark-active_important.svg": "/static/media/dark-active_important.2dde146bc2e89e23b748.svg",
+    "static/media/light-active_important.svg": "/static/media/light-active_important.ce913c7da5761869f3d3.svg",
+    "static/media/light-arrow.svg": "/static/media/light-arrow.5d30002d6e6592841554.svg",
+    "static/media/dark-arrow.svg": "/static/media/dark-arrow.d9f71ba0a4bc10a1ad81.svg",
+    "static/media/dark-chevron_right.svg": "/static/media/dark-chevron_right.15dfdb078ad49ff931e2.svg",
+    "static/media/light-chevron_right.svg": "/static/media/light-chevron_right.3b22848e44012a5f28cd.svg",
+    "static/media/dark-task_icon.svg": "/static/media/dark-task_icon.027331de80991c63c336.svg",
+    "static/media/light-task_icon.svg": "/static/media/light-task_icon.1a25ed488f6cc2755824.svg",
+    "static/media/dark-lila-plus.svg": "/static/media/dark-lila-plus.ad23910142d5dea31789.svg",
+    "static/media/light-lila-plus.svg": "/static/media/light-lila-plus.9b444bb25df727e9ce72.svg",
+    "static/media/plus.svg": "/static/media/plus.3a69b6899ab7029bdf87.svg",
+    "main.ddc09a0e.css.map": "/static/css/main.ddc09a0e.css.map",
+    "main.1b9dbe3f.js.map": "/static/js/main.1b9dbe3f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ddc09a0e.css",
+    "static/js/main.1b9dbe3f.js"
+  ]
+}
